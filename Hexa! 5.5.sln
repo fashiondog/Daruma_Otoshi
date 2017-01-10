@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hexa! 5.5", "Hexa! 5.5.csproj", "{E088EA9F-AB8D-0D2F-3E41-877B1F1EE5CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hexa! 5.5.Editor", "Hexa! 5.5.Editor.csproj", "{21708117-0F18-4CF9-738B-3552AF38275E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E088EA9F-AB8D-0D2F-3E41-877B1F1EE5CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E088EA9F-AB8D-0D2F-3E41-877B1F1EE5CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E088EA9F-AB8D-0D2F-3E41-877B1F1EE5CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E088EA9F-AB8D-0D2F-3E41-877B1F1EE5CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21708117-0F18-4CF9-738B-3552AF38275E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21708117-0F18-4CF9-738B-3552AF38275E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21708117-0F18-4CF9-738B-3552AF38275E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21708117-0F18-4CF9-738B-3552AF38275E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
